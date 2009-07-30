@@ -1,0 +1,15 @@
+About
+-----
+
+Bootstrap your career in datamining!  
+
+Simple examples of how to extract data and files from a few big websites
+
+Requires the mechanize gem:
+`sudo gem install mechanize`
+
+
+
+Contributors
+----
+Jamie Wilkinson <http://jamiedubs.com>
